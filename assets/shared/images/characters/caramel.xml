@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="caramel.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CARAMELLBF0000" x="0" y="0" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0001" x="0" y="0" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0002" x="599" y="0" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0003" x="599" y="0" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0004" x="1198" y="0" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0005" x="1198" y="0" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0006" x="0" y="558" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0007" x="0" y="558" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0008" x="599" y="558" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0009" x="599" y="558" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0010" x="1198" y="558" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0011" x="1198" y="558" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0012" x="0" y="1116" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0013" x="0" y="1116" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0014" x="599" y="1116" width="599" height="558"/>
+	<SubTexture name="CARAMELLBF0015" x="599" y="1116" width="599" height="558"/>
+</TextureAtlas>
